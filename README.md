@@ -15,6 +15,7 @@ Source https://stackoverflow.com/questions/3297437/shadow-effect-for-a-text-in-a
 - example1
 ```xml
 <TextView
+    ...
     android:shadowColor="@color/text_shadow"
     android:shadowDx="1"
     android:shadowDy="1"
@@ -26,6 +27,7 @@ Source https://stackoverflow.com/questions/3297437/shadow-effect-for-a-text-in-a
 - example2
 ```xml
 <TextView
+    ...
     android:shadowColor="@color/text_shadow"
     android:shadowDx="-1"
     android:shadowDy="-1"
@@ -37,6 +39,7 @@ Source https://stackoverflow.com/questions/3297437/shadow-effect-for-a-text-in-a
 - example3
 ```xml
 <TextView
+    ...
     android:shadowColor="@color/text_shadow_white"
     android:shadowDx="-2"
     android:shadowDy="-2"
